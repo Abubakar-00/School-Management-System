@@ -1,0 +1,15 @@
+1. Run this command only once after receving!!
+
+	python manage.py migrate
+
+	It actually configs the database!!
+	Dont need to run it again & again!!
+
+2. Use this command to run the project!!
+
+	python manage.py runserver
+
+	address of website (localHost:127.0.0.1 Port:8000)
+	http://127.0.0.1:8000/
+
+password for admin abubakar1 is 123 (verified)
